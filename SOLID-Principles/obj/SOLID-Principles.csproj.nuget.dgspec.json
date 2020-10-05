@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LornV\\Documents\\GitHub\\ASP.NET-CORE\\SOLID-Principles\\SOLID-Principles\\SOLID-Principles.csproj": {}
+    "C:\\Users\\LornV\\Documents\\GitHub\\SOLID-Principles\\SOLID-Principles\\SOLID-Principles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LornV\\Documents\\GitHub\\ASP.NET-CORE\\SOLID-Principles\\SOLID-Principles\\SOLID-Principles.csproj": {
+    "C:\\Users\\LornV\\Documents\\GitHub\\SOLID-Principles\\SOLID-Principles\\SOLID-Principles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LornV\\Documents\\GitHub\\ASP.NET-CORE\\SOLID-Principles\\SOLID-Principles\\SOLID-Principles.csproj",
+        "projectUniqueName": "C:\\Users\\LornV\\Documents\\GitHub\\SOLID-Principles\\SOLID-Principles\\SOLID-Principles.csproj",
         "projectName": "SOLID-Principles",
-        "projectPath": "C:\\Users\\LornV\\Documents\\GitHub\\ASP.NET-CORE\\SOLID-Principles\\SOLID-Principles\\SOLID-Principles.csproj",
+        "projectPath": "C:\\Users\\LornV\\Documents\\GitHub\\SOLID-Principles\\SOLID-Principles\\SOLID-Principles.csproj",
         "packagesPath": "C:\\Users\\LornV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LornV\\Documents\\GitHub\\ASP.NET-CORE\\SOLID-Principles\\SOLID-Principles\\obj\\",
+        "outputPath": "C:\\Users\\LornV\\Documents\\GitHub\\SOLID-Principles\\SOLID-Principles\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

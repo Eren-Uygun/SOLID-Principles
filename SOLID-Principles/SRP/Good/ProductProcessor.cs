@@ -41,7 +41,7 @@ namespace SOLID_Principles.SRP.Good
                 sb.Append(product.Discontinued);
 
                 log = logger.BuildLog(sb.ToString());
-                logger.LogFile(@"C:\ProductDataLog.txt",log);
+                logger.LogFile(@"C:\Solidlog\ProductDataLog.txt",log);
 
                 return true;
 
@@ -49,7 +49,7 @@ namespace SOLID_Principles.SRP.Good
             catch (Exception e)
             {
                 log = logger.BuildLog("Hata Mesajı : "+e.Message);
-                logger.LogFile(@"C:\Log.txt", log);
+                logger.LogFile(@"C:\Solidlog\Log.txt", log);
 
                 return false;
             }
